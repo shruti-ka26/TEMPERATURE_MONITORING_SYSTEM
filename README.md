@@ -53,6 +53,7 @@ Greenhouses use temperature monitoring to maintain optimal conditions for plant 
 Automated systems can regulate ventilation and heating.
 
 6)Electronics Protection
+
 Computers and servers use temperature sensors to prevent overheating.
 
 Fans or cooling systems are activated when temperatures exceed safe limits.
