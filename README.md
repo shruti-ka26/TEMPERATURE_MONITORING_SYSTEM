@@ -59,3 +59,4 @@ Fans or cooling systems are activated when temperatures exceed safe limits.
 
 OUTPUT
 
+<img width="1870" height="953" alt="Image" src="https://github.com/user-attachments/assets/918acea7-9b35-4757-936a-f82dda5d63cf" />
